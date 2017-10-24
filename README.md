@@ -1,7 +1,7 @@
 # foursquare_cipher
 USe base64 and a foursquare cipher to encrypt stuff!
 
-# useage
+# usage
 
 usage: main.py [-h] [-d] [-i INPUT] [-o OUTPUT] [--show-blocks] [-v]
 Symmetrical De/enciphering of inputted data. Secure enough for everyday use inthe home.
